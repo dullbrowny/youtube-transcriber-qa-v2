@@ -1,0 +1,4 @@
+requests
+weaviate-client
+tkinter
+whisper
